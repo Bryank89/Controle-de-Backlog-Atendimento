@@ -1,0 +1,6 @@
+{
+  "name": "Comunica VLI - Controle de Backlog & Atendimento",
+  "description": "Painel de controle de backlog, triagem de protocolos e atendimento ao vivo da Campanha Alô VLI para operadores da ComunicaContactCenter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
